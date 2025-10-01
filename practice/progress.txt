@@ -20,7 +20,7 @@ Que 8 - Pull updated progress.txt - progress.txt edited on: local machine - comm
 Description: Pulled the updated progress.txt file from GitHub.
 
 Que 9 - Create a new branch for feature1 - progress.txt edited on: local machine - command ran on: local machine
-Description: Created a new branch named `feature1`.
+Description: Created a new branch named `feature1`
 
 Que 10 - Switch to feature1 branch - progress.txt edited on: local machine - command ran on: local machine
 Description: Switched to the `feature1` branch.
