@@ -12,3 +12,6 @@ Description: Committed the staged files with the message "Initial commit"
 
 Que 5 - Add remote origin - progress.txt edited on: local machine - command ran on: local machine
 Description: Added a remote origin to the repository using `git remote add origin`.
+
+Que 7 - Edit progress.txt on GitHub - progress.txt edited on: GitHub website - command ran on: GitHub website
+Description: Edited the progress.txt file directly on the GitHub website.
