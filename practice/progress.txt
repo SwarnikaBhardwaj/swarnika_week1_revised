@@ -19,5 +19,21 @@ Description: Edited the progress.txt file directly on the GitHub website.
 Que 8 - Pull updated progress.txt - progress.txt edited on: local machine - command ran on: local machine
 Description: Pulled the updated progress.txt file from GitHub.
 
+Que 9 - Create a new branch for feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: Created a new branch named `feature1`.
+
+Que 10 - Switch to feature1 branch - progress.txt edited on: local machine - command ran on: local machine
+Description: Switched to the `feature1` branch.
+
+Que 11 - Edit app.py - progress.txt edited on: local machine - command ran on: local machine
+Description: Edited `app.py` to update the printed message to "Hello from feature1!".
+
+Que 12 - Add and commit the change - progress.txt edited on: local machine - command ran on: local machine
+Description: Added and committed the change made to `app.py` on the feature1 branch.
+
+Que 13 - Switch back to main branch - progress.txt edited on: local machine - command ran on: local machine
+Description: Switched back to the main branch.
+
+
 Que 14 - Merge feature1 into main - progress.txt edited on: local machine - command ran on: local machine
 Description: Merged the `feature1` branch into the main branch.
