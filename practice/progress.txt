@@ -34,6 +34,12 @@ Description: Added and committed the change made to `app.py` on the feature1 bra
 Que 13 - Switch back to main branch - progress.txt edited on: local machine - command ran on: local machine
 Description: Switched back to the main branch.
 
-
 Que 14 - Merge feature1 into main - progress.txt edited on: local machine - command ran on: local machine
 Description: Merged the `feature1` branch into the main branch.
+
+Que 15 - Push updated main branch to GitHub - progress.txt edited on: local machine - command ran on: local machine
+Description: Pushed the updated `main` branch after merging `feature1` into it.
+
+Que 16 - Delete feature1 branch locally - progress.txt edited on: local machine - command ran on: local machine
+Description: Deleted the `feature1` branch locally after merging.
+
