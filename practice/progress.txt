@@ -3,3 +3,12 @@ Description: I initialized a Git repository in my local folder using the git ini
 
 Que 2 - Create simple Python file - progress.txt edited on: local machine - command ran on: local machine
 Description: Created a simple Python file `app.py` with a "Hello World" statement.
+
+Que 3 - Add all files to staging area - progress.txt edited on: local machine - command ran on: local machine
+Description: Added all files to the staging area using `git add .`
+
+Que 4 - Commit the staged files - progress.txt edited on: local machine - command ran on: local machine
+Description: Committed the staged files with the message "Initial commit"
+
+Que 5 - Add remote origin - progress.txt edited on: local machine - command ran on: local machine
+Description: Added a remote origin to the repository using `git remote add origin`.
