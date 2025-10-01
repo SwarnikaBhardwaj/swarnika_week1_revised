@@ -19,3 +19,5 @@ Description: Edited the progress.txt file directly on the GitHub website.
 Que 8 - Pull updated progress.txt - progress.txt edited on: local machine - command ran on: local machine
 Description: Pulled the updated progress.txt file from GitHub.
 
+Que 14 - Merge feature1 into main - progress.txt edited on: local machine - command ran on: local machine
+Description: Merged the `feature1` branch into the main branch.
