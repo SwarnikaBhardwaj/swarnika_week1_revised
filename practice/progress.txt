@@ -31,3 +31,7 @@ Description: Edited `app.py` to update the printed message to "Hello from featur
 Que 12 - Add and commit the change - progress.txt edited on: local machine - command ran on: local machine
 Description: Added and committed the change made to `app.py` on the feature1 branch.
 
+Que 13 - Switch back to main branch - progress.txt edited on: local machine - command ran on: local machine
+Description: Switched back to the main branch.
+
+
